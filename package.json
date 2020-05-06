@@ -1,6 +1,6 @@
 {
   "name": "bk-js-footer",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "This module allows for a dynamic footer to be generated for JS applications, with an updated year and name.",
   "main": "index.js",
   "scripts": {
