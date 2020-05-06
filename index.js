@@ -9,5 +9,5 @@ const moment = require('moment');
     */
 const currentYear = moment().format('YYYY');
 exports.footer = (name) => {
-    `Copyright ${currentYear} ${name}. All rights reserved.`
+    return `Copyright ${currentYear} ${name}. All rights reserved.`
 };
